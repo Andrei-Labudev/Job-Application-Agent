@@ -1,0 +1,51 @@
+{
+  "name": "Jordan Rivera",
+  "location": "Denver, CO",
+  "phone": "(555) 010-2030",
+  "email": "jordan.rivera.jobs@example.com",
+  "linkedin": "linkedin.com/in/jordan-rivera-example",
+  "summary": "Program leader with 9 years delivering data and AI platforms for enterprise clients. Turns ambiguous business goals into measurable roadmaps, and leads cross-functional teams of 15-30 from discovery through launch.",
+  "experience": [
+    {
+      "org": "Example Consulting Group",
+      "org_location": "Remote",
+      "title": "Senior Manager",
+      "dates": "Mar 2022 – Present",
+      "roles": [
+        {
+          "title": "Program Lead — AI Platform Rollout",
+          "dates": "Jan 2025 – Present",
+          "bullets": [
+            "Lead 3 delivery teams (24 people) rolling out an internal AI assistant platform to 4,000 users at a large insurance client",
+            "Cut average request-to-release time 35% by introducing gated planning, automated test checks and weekly metric reviews",
+            "Built the business case and adoption plan that secured funding for a second-year expansion"
+          ]
+        },
+        {
+          "title": "Product Owner — Claims Data Platform",
+          "dates": "Mar 2022 – Dec 2024",
+          "bullets": [
+            "Owned roadmap and backlog for a claims data platform across 6 quarterly releases, all on schedule",
+            "Ran discovery workshops with 40+ stakeholders to prioritize features worth an estimated $2M in annual savings"
+          ]
+        }
+      ]
+    },
+    {
+      "org": "Sample Software Inc.",
+      "org_location": "Denver, CO",
+      "title": "Senior Business Analyst (promoted from Business Analyst)",
+      "dates": "Jun 2017 – Feb 2022",
+      "bullets": [
+        "Designed workflow automation for document intake, reducing processing time ~60%",
+        "Delivered a $3M software implementation for a public-sector client as functional lead",
+        "Mentored 5 junior analysts; built the team's requirements template, adopted company-wide"
+      ]
+    }
+  ],
+  "skills": [
+    ["Delivery", "Program management, Agile/Scrum, roadmap ownership, stakeholder management, risk & governance"],
+    ["AI & Data", "LLM assistants, prompt and evaluation design, AI adoption programs, SQL, data platforms"],
+    ["Tools", "Jira, Confluence, Power BI, AWS, GitHub"]
+  ]
+}

@@ -1,0 +1,10 @@
+# Personal job-search data: keep it out of this public repo
+job-search/
+career-profile/
+career-profile.zip
+*.pdf
+
+# Python / OS clutter
+__pycache__/
+*.pyc
+.DS_Store

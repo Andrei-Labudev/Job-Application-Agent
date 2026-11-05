@@ -1,0 +1,15 @@
+{
+  "name": "Jordan Rivera",
+  "location": "Denver, CO",
+  "phone": "(555) 010-2030",
+  "email": "jordan.rivera.jobs@example.com",
+  "date": "October 28, 2026",
+  "recipient": ["Hiring Team", "Example Corp"],
+  "paragraphs": [
+    "Dear Hiring Team,",
+    "Your posting for a Director of AI Enablement says the goal is to move AI \"from pilots to the way we work.\" That shift is exactly what I've spent the last two years doing.",
+    "At Example Consulting Group I lead three delivery teams rolling out an internal AI assistant to 4,000 users at a large insurer. We cut request-to-release time 35% by adding gated planning, automated checks and weekly metric reviews, and that evidence secured funding for a second year.",
+    "Before that I owned the roadmap for a claims data platform through six on-time releases, starting from discovery workshops with more than 40 stakeholders. I'm comfortable running the whole arc, from figuring out what to build to proving it worked.",
+    "I'd welcome a conversation about how I could help your teams make AI part of everyday delivery."
+  ]
+}
